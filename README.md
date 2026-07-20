@@ -132,7 +132,7 @@
   <!-- 5가로 x 5세로 (총 25개) 그리드 -->
   <main class="portfolio-grid">
     <!-- 1행 -->
-    <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=1"><img src="https://picsum.photos/300/300?random=1" alt="작업 1"><div class="overlay"><p>01</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/10867cff-2955-4a77-bdb8-8ccb5f5409aa"/>"><img src="https://picsum.photos/300/300?random=1" alt="작업 1"><div class="overlay"><p>01</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=2"><img src="https://picsum.photos/300/300?random=2" alt="작업 2"><div class="overlay"><p>02</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=3"><img src="https://picsum.photos/300/300?random=3" alt="작업 3"><div class="overlay"><p>03</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=4"><img src="https://picsum.photos/300/300?random=4" alt="작업 4"><div class="overlay"><p>04</p></div></div>
