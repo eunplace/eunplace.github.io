@@ -155,9 +155,9 @@
     <!-- 4행 -->
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/c315e3c2-089c-44cd-aa29-9fec19c2c028"><img src="https://github.com/user-attachments/assets/855590fa-f829-4192-b0bb-de4034c92b17" alt="작업 16"><div class="overlay"><p>포인트블랭크 홈페이지 구축</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/7d4cf953-5e36-4e41-968a-8d0e158e5270"><img src="https://github.com/user-attachments/assets/16cdeb54-098e-40e0-8e8b-265ad64904a4" alt="작업 17"><div class="overlay"><p>에다전설 프로모션 사이트 디자인</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/cd12fa69-be42-4218-a12b-0800ddc32c73"><img src="https://github.com/user-attachments/assets/b51c9961-3595-40dc-a780-e6955c7fdd61" alt="작업 18"><div class="overlay"><p>18</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/bd81b83a-38bc-4bb7-bdf9-8651f3a9a4d1"><img src="https://github.com/user-attachments/assets/f84bcedb-af7a-4dfb-9570-7a753f49a007" alt="작업 19"><div class="overlay"><p>19</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/2a99417e-8f6a-4e55-99d9-74e7cde32c53"><img src="https://github.com/user-attachments/assets/a40d78a5-5883-480e-884b-6ad555b42cf8" alt="작업 20"><div class="overlay"><p>20</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/cd12fa69-be42-4218-a12b-0800ddc32c73"><img src="https://github.com/user-attachments/assets/b51c9961-3595-40dc-a780-e6955c7fdd61" alt="작업 18"><div class="overlay"><p>더파이브인터렉티브게임 회사 G-STAR 팜플렛 디자인</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/bd81b83a-38bc-4bb7-bdf9-8651f3a9a4d1"><img src="https://github.com/user-attachments/assets/f84bcedb-af7a-4dfb-9570-7a753f49a007" alt="작업 19"><div class="overlay"><p>장문인게임 프로모션이벤트 페이지</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/2a99417e-8f6a-4e55-99d9-74e7cde32c53"><img src="https://github.com/user-attachments/assets/a40d78a5-5883-480e-884b-6ad555b42cf8" alt="작업 20"><div class="overlay"><p>티업 스크린골프 관련 배너, 카페 템플릿 디자인</p></div></div>
 
     <!-- 5행 -->
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/912f9344-fa3d-45cc-b05b-f0b9bd79bb72"><img src="https://github.com/user-attachments/assets/912f9344-fa3d-45cc-b05b-f0b9bd79bb72" alt="작업 21"><div class="overlay"><p>21</p></div></div>
