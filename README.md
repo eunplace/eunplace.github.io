@@ -23,7 +23,7 @@
     }
 
 h1 {
-      color:#ffffff
+      font-color:#ffffff
     }
     header h1 {
       font-size: 2rem;
