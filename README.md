@@ -146,7 +146,7 @@
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/03f94d29-4c49-4efb-8a90-eec3a8959e32"><img src="https://github.com/user-attachments/assets/2d0d807f-5ab2-4036-8c2e-27812679d0a3" alt="작업 10"><div class="overlay"><p>10</p></div></div>
 
     <!-- 3행 -->
-    <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=11"><img src="https://picsum.photos/300/300?random=11" alt="작업 11"><div class="overlay"><p>11</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/28959035-82ee-45fd-ad26-dd15cbaf780a"><img src="https://github.com/user-attachments/assets/f7d74748-9e6e-4850-bf10-872d0d998f18" alt="작업 11"><div class="overlay"><p>11</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=12"><img src="https://picsum.photos/300/300?random=12" alt="작업 12"><div class="overlay"><p>12</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=13"><img src="https://picsum.photos/300/300?random=13" alt="작업 13"><div class="overlay"><p>13</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=14"><img src="https://picsum.photos/300/300?random=14" alt="작업 14"><div class="overlay"><p>14</p></div></div>
