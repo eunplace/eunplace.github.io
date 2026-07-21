@@ -142,7 +142,7 @@
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/bef591c0-57a0-45a0-92a1-9257b8996c39"><img src="https://github.com/user-attachments/assets/a5dd6ba6-aaf9-4b31-bdc0-6997986491a6" alt="작업 6"><div class="overlay"><p>06</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/dd12fe19-0acd-4c4d-b1b2-9aaa88c386bc"><img src="https://github.com/user-attachments/assets/fa186cd9-1a65-4d78-a288-4ea5b530d81b" alt="작업 7"><div class="overlay"><p>07</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/4a4ab21d-d761-411e-b6e2-aaa90065acc0"><img src="https://github.com/user-attachments/assets/57d947d6-f4a4-4446-b977-f7624998424a" alt="작업 8"><div class="overlay"><p>08</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/d4ba823b-d89e-4e7e-90eb-0eb66417a9d5"><img src="https://github.com/user-attachments/assets/74e51dad-4ec5-4c4a-b9a2-ef4d8a5511ad" alt="작업 9"><div class="overlay"><p>09</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/86e83d1d-378d-47c6-bc54-8c81914d436c"><img src="https://github.com/user-attachments/assets/74e51dad-4ec5-4c4a-b9a2-ef4d8a5511ad" alt="작업 9"><div class="overlay"><p>09</p></div></div>
     <div class="portfolio-item" data-full="https://picsum.photos/1200/800?random=10"><img src="https://picsum.photos/300/300?random=10" alt="작업 10"><div class="overlay"><p>10</p></div></div>
 
     <!-- 3행 -->
