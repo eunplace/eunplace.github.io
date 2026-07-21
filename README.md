@@ -29,7 +29,6 @@ h1 {
       font-size: 2rem;
       font-weight: 700;
       letter-spacing: -0.5px;
-      color:#ffffff
     }
 
     /* 5x5 그리드 핵심 설정 */
