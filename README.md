@@ -148,7 +148,7 @@
     <!-- 3행 -->
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/28959035-82ee-45fd-ad26-dd15cbaf780a"><img src="https://github.com/user-attachments/assets/f7d74748-9e6e-4850-bf10-872d0d998f18" alt="작업 11"><div class="overlay"><p>넷마블게임 광고 배너</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/c5900e07-8f26-4c31-9726-35f7ad49912b"><img src="https://github.com/user-attachments/assets/7cd30817-b683-4b67-9cbf-a9cdb60da639" alt="작업 12"><div class="overlay"><p>스키드러쉬게임 이벤트 배너</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/582014fd-2c11-4b0f-8b8a-e3b10d326913"><img src="https://github.com/user-attachments/assets/5bb4a569-395a-498c-930e-752889ad5d0a" alt="작업 13"><div class="overlay"><p>포인브블랭크게임 프로모션이벤트 페이ㅣ</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/582014fd-2c11-4b0f-8b8a-e3b10d326913"><img src="https://github.com/user-attachments/assets/5bb4a569-395a-498c-930e-752889ad5d0a" alt="작업 13"><div class="overlay"><p>포인브블랭크게임 프로모션이벤트 페이지</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/88ea4487-884a-4cad-9fa4-4f6524d6a6cd"><img src="https://github.com/user-attachments/assets/c0211468-6db1-4b7a-b556-84cfea8aeedb" alt="작업 14"><div class="overlay"><p>포인트블랭크게임 이벤트페이지</p></div></div>
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/09eb8359-b73f-4639-85d3-893ad4113665"><img src="https://github.com/user-attachments/assets/ee070c58-f4e9-49ce-86d8-7684f5ab82ff" alt="작업 15"><div class="overlay"><p>포인트블랭크게임 배너</p></div></div>
 
