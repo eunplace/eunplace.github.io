@@ -22,6 +22,9 @@
       margin-bottom: 30px;
     }
 
+h1 {
+      color:#ffffff
+    }
     header h1 {
       font-size: 2rem;
       font-weight: 700;
