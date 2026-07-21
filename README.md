@@ -139,11 +139,11 @@
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/244be195-faf9-4340-83f4-5c98b29fa59f"><img src="https://github.com/user-attachments/assets/d6f4bcdd-c0c6-4207-9c1f-700b90e3a1a1" alt="작업 5"><div class="overlay"><p>SK세븐모바일 이벤트 페이지</p></div></div>
 
     <!-- 2행 -->
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/bef591c0-57a0-45a0-92a1-9257b8996c39"><img src="https://github.com/user-attachments/assets/a5dd6ba6-aaf9-4b31-bdc0-6997986491a6" alt="작업 6"><div class="overlay"><p>06</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/dd12fe19-0acd-4c4d-b1b2-9aaa88c386bc"><img src="https://github.com/user-attachments/assets/fa186cd9-1a65-4d78-a288-4ea5b530d81b" alt="작업 7"><div class="overlay"><p>07</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/4a4ab21d-d761-411e-b6e2-aaa90065acc0"><img src="https://github.com/user-attachments/assets/57d947d6-f4a4-4446-b977-f7624998424a" alt="작업 8"><div class="overlay"><p>08</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/86e83d1d-378d-47c6-bc54-8c81914d436c"><img src="https://github.com/user-attachments/assets/74e51dad-4ec5-4c4a-b9a2-ef4d8a5511ad" alt="작업 9"><div class="overlay"><p>09</p></div></div>
-    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/03f94d29-4c49-4efb-8a90-eec3a8959e32"><img src="https://github.com/user-attachments/assets/2d0d807f-5ab2-4036-8c2e-27812679d0a3" alt="작업 10"><div class="overlay"><p>10</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/bef591c0-57a0-45a0-92a1-9257b8996c39"><img src="https://github.com/user-attachments/assets/a5dd6ba6-aaf9-4b31-bdc0-6997986491a6" alt="작업 6"><div class="overlay"><p>국제전화 앱 이벤트페이지</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/dd12fe19-0acd-4c4d-b1b2-9aaa88c386bc"><img src="https://github.com/user-attachments/assets/fa186cd9-1a65-4d78-a288-4ea5b530d81b" alt="작업 7"><div class="overlay"><p>SK세븐모바일 이벤트 페이지</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/4a4ab21d-d761-411e-b6e2-aaa90065acc0"><img src="https://github.com/user-attachments/assets/57d947d6-f4a4-4446-b977-f7624998424a" alt="작업 8"><div class="overlay"><p>SK세븐모바일 이벤트 페이지</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/86e83d1d-378d-47c6-bc54-8c81914d436c"><img src="https://github.com/user-attachments/assets/74e51dad-4ec5-4c4a-b9a2-ef4d8a5511ad" alt="작업 9"><div class="overlay"><p>SK세븐모바일 이벤트, 마블유심카드 제작</p></div></div>
+    <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/03f94d29-4c49-4efb-8a90-eec3a8959e32"><img src="https://github.com/user-attachments/assets/2d0d807f-5ab2-4036-8c2e-27812679d0a3" alt="작업 10"><div class="overlay"><p>루비콘32% 홈페이지 워드프레스 구축</p></div></div>
 
     <!-- 3행 -->
     <div class="portfolio-item" data-full="https://github.com/user-attachments/assets/28959035-82ee-45fd-ad26-dd15cbaf780a"><img src="https://github.com/user-attachments/assets/f7d74748-9e6e-4850-bf10-872d0d998f18" alt="작업 11"><div class="overlay"><p>11</p></div></div>
